@@ -8,14 +8,12 @@ Provides a decorator way to specify document.title in a single-page app.
 npm i react-document-title-decorator
 ```
 
-```javascript
-import DocumentTitle from "react-document-title-decorator";
-```
 ## Basic Usage
 
 Create a cookie, valid across the entire site:
 
 ```javascript
+import DocumentTitle from "react-document-title-decorator";
 import React, {Component} from 'react';
 
 @DocumentTitle('Welcome!')
