@@ -1,0 +1,22 @@
+{
+  "name": "react-document-title-decorator",
+  "version": "1.0.0",
+  "description": "Provides a decorator way to specify document.title in a single-page app.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "typings": "index.d.ts",
+  "keywords": [
+    "react",
+    "document",
+    "title"
+  ],
+  "homepage": "https://github.com/thunkli/react-document-title-decorator",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thunkli/react-document-title-decorator.git"
+  },
+  "author": "thunkli",
+  "license": "ISC"
+}
