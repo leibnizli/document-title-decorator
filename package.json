@@ -1,6 +1,6 @@
 {
   "name": "document-title-decorator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Provides a decorator way to specify document.title in a single-page app.",
   "main": "src/index.js",
   "scripts": {

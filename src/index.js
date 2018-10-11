@@ -6,4 +6,4 @@ const DocumentTitle = (title) => {
     return (target) => target;
 }
 
-export default DocumentTitle();
+export default DocumentTitle;
